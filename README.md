@@ -1,3 +1,5 @@
+![Screenshot_20221108_205644](https://github.com/Adii-sharma/Text-utility/assets/104681131/6c9445a1-f986-417e-8a9f-d081b0962e61)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
